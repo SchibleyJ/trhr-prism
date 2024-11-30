@@ -44,8 +44,10 @@ Overall, the Swift layout is a very impressive and comfortable design.  However,
 
 TRHR fixes this by moving the c-stick cluster up and to the left, recreating the original spacing/distance of the traditional design while keeping the benefits of the Swift layout.  You can see this change by looking at "Swift vs TRHR" and understand the intended spacing by looking at "Traditional vs TRHR."
 
-*One final note if you're looking to try this layout yourself: as you can see in the documentation for the original [HTangl layout](https://www.htangl.com/layout), one of the major benefits of using closer spaced buttons and a top row home row is that you can wavedash using X and R instead of Y and R.  This holds true with the TRHR layout and is the method that gives the most benefit over just using the traditional prism layout in the first place.*
+TRHR also includes an MS button which was excluded from the original Swift layout.  I've included additional files labeled "TRHR-S" which exclude the MS button as well.  To clarify, the standard TRHR layout has an MS button while TRHR-S does not.
 
-*Here is the suggested layout for reference:*
+*One final note if you're looking to try this layout yourself: as you can see in the documentation for the original [HTangl layout](https://www.htangl.com/layout), one of the major benefits of using closer spaced buttons and a top row home row is that you can wavedash using X and R instead of Y and R.  This holds true with the TRHR layout and is the method that gives the most benefit over just using the traditional prism layout in the first place.* 
+
+*Here is the suggested layout for reference:* 
 
 ![swift vs trhr layout](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trhr%20labeled.png?raw=true)
