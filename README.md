@@ -7,19 +7,19 @@ This explanation will compare the "traditional prism layout," the "Swift layout,
 
 Here is the traditional prism layout:
 
-![trad layout](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trad.PNG?raw=true)
+![trad layout](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/trad.PNG?raw=true)
 
 It is essentially just based on the classic B0XX design which many digital controllers share.
 
 Here is the Swift layout:
 
-![swift layout](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/swift.PNG?raw=true)
+![swift layout](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/swift.PNG?raw=true)
 
 It is a unique design commissioned by the player Swift to rest your fingers on the top row of buttons rather than the bottom, similar to the [HTangl Controller](https://www.htangl.com/layout).
 
 Here is the Top Row Home Row layout:
 
-![trhr layout](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trhr.PNG?raw=true)
+![trhr layout](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/trhr.PNG?raw=true)
 
 It is a modification of the Swift layout to adjust the position of the c-stick cluster.
 
@@ -28,15 +28,15 @@ Here is a comparison between each of the 3 layouts:
 
 Traditional vs Swift:
 
-![trad vs swift](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trad%20v%20swift.PNG?raw=true)
+![trad vs swift](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/trad%20v%20swift.PNG?raw=true)
 
 Swift vs TRHR:
 
-![swift vs trhr](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/swift%20v%20trhr.PNG?raw=true)
+![swift vs trhr](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/swift%20v%20trhr.PNG?raw=true)
 
 Traditional vs TRHR:
 
-![trad vs trhr](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trad%20v%20trhr.PNG?raw=true)
+![trad vs trhr](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/trad%20v%20trhr.PNG?raw=true)
 
 ## Explanation of TRHR's changes:
 
@@ -50,4 +50,4 @@ TRHR also includes an MS button which was excluded from the original Swift layou
 
 *Here is the suggested layout for reference:* 
 
-![swift vs trhr layout](https://github.com/SchibleyJ/trhr-prism/blob/main/Readme%20Visuals/trhr%20labeled.png?raw=true)
+![swift vs trhr layout](https://raw.githubusercontent.com/SchibleyJ/trhr-prism/refs/heads/main/Readme%20Visuals/trhr%20labeled.png?raw=true)
